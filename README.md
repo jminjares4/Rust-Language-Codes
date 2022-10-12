@@ -5,6 +5,7 @@ will the example problems of [***`The Rust Programing Language Book`***](https:/
 ## **Table of Content**
 - [Chapter 1: Getting Started](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%201)
 - [Chapter 2: Programming A Guessing Game](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%202)
+- [Chapter 3: Common Programming Concepts](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%203)
 
 ## **Software Development**
 | **Software** | **Environment** |

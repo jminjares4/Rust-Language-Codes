@@ -3,7 +3,7 @@
 will the example problems of [***`The Rust Programing Language Book`***](https://doc.rust-lang.org/book/title-page.html). 
 
 ## **Table of Content**
-- [Chapter 1: Getting Started](Chapter%201)
+- [Chapter 1: Getting Started](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%201)
 - [Chapter 2: Programming A Guessing Game](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%202)
 
 ## **Software Development**

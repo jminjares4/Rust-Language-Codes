@@ -7,7 +7,8 @@ will the example problems of [***`The Rust Programing Language Book`***](https:/
 - [Chapter 2: Programming A Guessing Game](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%202)
 - [Chapter 3: Common Programming Concepts](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%203)
 - [Chapter 4: Understanding Ownership](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%204)
-
+- [Chapter 5: Using Structs to Structure Related Data](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%205)
+  
 ## **Software Development**
 | **Software** | **Environment** |
 |:---      | :---       |

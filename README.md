@@ -8,6 +8,7 @@ will the example problems of [***`The Rust Programing Language Book`***](https:/
 - [Chapter 3: Common Programming Concepts](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%203)
 - [Chapter 4: Understanding Ownership](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%204)
 - [Chapter 5: Using Structs to Structure Related Data](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%205)
+- [Chapter 6: Enums and Pattern Matching](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%206)
   
 ## **Software Development**
 | **Software** | **Environment** |

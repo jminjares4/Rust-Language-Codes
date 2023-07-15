@@ -10,6 +10,7 @@ will the example problems of [***`The Rust Programing Language Book`***](https:/
 - [Chapter 5: Using Structs to Structure Related Data](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%205)
 - [Chapter 6: Enums and Pattern Matching](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%206)
 - [Chapter 7: Managing Growing Projects with Packages, Crates, and Modules](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%207)
+- [Chapter 8: Common Collections](https://github.com/jminjares4/Rust-Language-Codes/tree/main/Chapter%208)
   
 ## **Software Development**
 | **Software** | **Environment** |
@@ -18,7 +19,7 @@ will the example problems of [***`The Rust Programing Language Book`***](https:/
 
 ~~~rust
 fn main(){
-	println!("Go Miners!!!");
+	println!("Learning Rust is fun!!!");
 }
 ~~~
 
